@@ -9,3 +9,14 @@ os = "linux"
     [[cuQuantum.download]]
     sha256 = "8f58838c6ad87aa456824fdab90f9a8f45893fae19a1d539101867377b9ba2ef"
     url = "https://github.com/maleadt/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.x86_64-linux-gnu-cuda+11.0.tar.gz"
+[[cuQuantum]]
+arch = "powerpc64le"
+cuda = "11.0"
+git-tree-sha1 = "eec9bc039bd2adddfae5ca63cd82aed4ae786e5d"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[cuQuantum.download]]
+    sha256 = "4b8f9ff70a127d9715cd0a9e709f61c1ff425478e5870965da37eb4efc62d179"
+    url = "https://github.com/maleadt/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.powerpc64le-linux-gnu-cuda+11.0.tar.gz"

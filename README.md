@@ -10,13 +10,13 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `cuQuantum_jll.jl` have been built from these sources:
 
-* compressed archive: https://developer.download.nvidia.com/compute/cuquantum/redist/cuquantum/linux-x86_64/cuquantum-linux-x86_64-0.1.0.30-archive.tar.xz (SHA256 checksum: `8ad8e98f14275ffe0de02574be5c86224af1c657c41baf02c16440301ffe0aae`)
+* compressed archive: https://developer.download.nvidia.com/compute/cuquantum/redist/cuquantum/linux-ppc64le/cuquantum-linux-ppc64le-0.1.0.30-archive.tar.xz (SHA256 checksum: `0eb84eef619a1cfab5870fb585200a9869a197866685252e4ca8187322809554`)
 
 ## Platforms
 
 `cuQuantum_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cuda=11.0, libc=glibc}` (`x86_64-linux-gnu-cuda+11.0`)
+* `Linux powerpc64le {cuda=11.0, libc=glibc}` (`powerpc64le-linux-gnu-cuda+11.0`)
 
 ## Dependencies
 
