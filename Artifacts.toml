@@ -1,0 +1,11 @@
+[[cuQuantum]]
+arch = "x86_64"
+cuda = "11.0"
+git-tree-sha1 = "7804135a1530034ccfc8f3a8ed8baee08ae04956"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[cuQuantum.download]]
+    sha256 = "8f58838c6ad87aa456824fdab90f9a8f45893fae19a1d539101867377b9ba2ef"
+    url = "https://github.com/maleadt/cuQuantum_jll.jl/releases/download/cuQuantum-v0.1.30+1/cuQuantum.v0.1.30.x86_64-linux-gnu-cuda+11.0.tar.gz"
